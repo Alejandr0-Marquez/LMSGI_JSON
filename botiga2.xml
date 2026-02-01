@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<tienda>
+    <producto id="P001">
+        <nombre>Laptop Gaming</nombre>
+        <descripcion>Ordenador portátil para juegos</descripcion>
+        <precio>1299.99</precio>
+        <categoria>
+            <nombre>Electrónica</nombre>
+            <subcategoria>Ordenadores</subcategoria>
+        </categoria>
+        <disponibilidad>en estoc</disponibilidad>
+        <imagen url="https://ejemplo.com/imagenes/laptop.jpg" />
+    </producto>
+    <producto id="P002">
+        <nombre>IPhone17</nombre>
+        <descripcion>Teléfono</descripcion>
+        <precio>699.99</precio>
+        <categoria>
+            <nombre>Electrónica</nombre>
+            <subcategoria>Teléfonos</subcategoria>
+        </categoria>
+        <disponibilidad>esgotat</disponibilidad>
+        <imagen url="https://ejemplo.com/imagenes/smartphone.jpg" />
+    </producto>
+</tienda>
