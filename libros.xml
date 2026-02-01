@@ -1,0 +1,10 @@
+<libro id="123">
+  <titulo>El principito</titulo>
+  <autor>Antoine de Saint-Exupéry</autor>
+  <anio_publicacion>1943</anio_publicacion>
+  <generos>
+    <genero>Fábula</genero>
+    <genero>Literatura infantil</genero>
+  </generos>
+  <disponible>true</disponible>
+</libro>

@@ -1,0 +1,94 @@
+{
+  "pokemons": [
+    {
+      "id": 25,
+      "nombre": "Pikachu",
+      "tipo": ["Eléctrico"],
+      "peso": "6.0 kg",
+      "altura": "0.4 m",
+      "estadisticas": {
+        "velocidad": 90,
+        "fortaleza": 55,
+        "precision": 50,
+        "resistencia": 40
+      },
+      "movimientos": [
+        {
+          "nombre": "Impactrueno",
+          "descripcion": "Lanza una descarga eléctrica que puede paralizar al objetivo.",
+          "potencia": 40,
+          "contacte": false
+        },
+        {
+          "nombre": "Cola Férrea",
+          "descripcion": "Golpea al objetivo con una cola dura como el hierro.",
+          "potencia": 100,
+          "contacte": true
+        },
+        {
+          "nombre": "Rayo",
+          "descripcion": "Un poderoso ataque eléctrico que puede paralizar.",
+          "potencia": 90,
+          "contacte": false
+        }
+      ],
+      "imagen": "https://www.wikidex.net/wiki/Archivo:Pikachu.png",
+      "evolucions": [
+        {
+          "id": 26,
+          "nombre_evolucion": "Raichu",
+          "nivell": null,
+          "condicion": "Usar Piedra Trueno"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "nombre": "Eevee",
+      "tipo": ["Normal"],
+      "peso": "6.5 kg",
+      "altura": "0.3 m",
+      "estadisticas": {
+        "velocidad": 55,
+        "fortaleza": 55,
+        "precision": 55,
+        "resistencia": 50
+      },
+      "movimientos": [
+        {
+          "nombre": "Placaje",
+          "descripcion": "Un ataque físico básico.",
+          "potencia": 40,
+          "contacte": true
+        },
+        {
+          "nombre": "Ataque Rápido",
+          "descripcion": "Golpea al objetivo a gran velocidad.",
+          "potencia": 40,
+          "contacte": true
+        }
+      ],
+      "imagen": "https://www.wikidex.net/wiki/Archivo:Eevee.png",
+      "evolucions": [
+        {
+          "id": 134,
+          "nombre_evolucion": "Vaporeon",
+          "nivell": null,
+          "condicion": "Usar Piedra Agua"
+        },
+        {
+          "id": 135,
+          "nombre_evolucion": "Jolteon",
+          "nivell": null,
+          "condicion": "Usar Piedra Trueno"
+        },
+        {
+          "id": 136,
+          "nombre_evolucion": "Flareon",
+          "nivell": null,
+          "condicion": "Usar Piedra Fuego"
+        }
+      ]
+    }
+  ]
+}

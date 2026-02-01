@@ -1,0 +1,10 @@
+{
+  "libro": {
+    "id": "123",
+    "titulo": "El principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "anio_publicacion": 1943,
+    "generos": ["Fábula", "Literatura infantil"],
+    "disponible": true
+  }
+}

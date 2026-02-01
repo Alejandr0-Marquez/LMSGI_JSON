@@ -1,0 +1,14 @@
+<empresa>
+    <nombre>Tech Solutions</nombre>
+    <fundacion>2005</fundacion>
+    <empleados>
+        <empleado id="1">
+            <nombre>Ana</nombre>
+            <departamento>Ventas</departamento>
+        </empleado>
+        <empleado id="2">
+            <nombre>Luis</nombre>
+            <departamento>Desarrollo</departamento>
+        </empleado>
+    </empleados>
+</empresa>
