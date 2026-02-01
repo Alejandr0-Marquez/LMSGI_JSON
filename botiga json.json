@@ -1,0 +1,16 @@
+{
+  "empresa": "tech Solutions",
+  "fundacion": 2005,
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Ana",
+      "departamento": "Ventas"
+    },
+    {
+      "id": 2,
+      "nombre": "Luis",
+      "departamento": "Desarrollo"
+    }
+  ]
+}
