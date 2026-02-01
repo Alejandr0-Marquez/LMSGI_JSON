@@ -32,7 +32,7 @@
           "contacte": false
         }
       ],
-      "imagen": "https://www.wikidex.net/wiki/Archivo:Pikachu.png",
+      "imagen": "https://www.wikidex.net/Pikachu.png",
       "evolucions": [
         {
           "id": 26,
@@ -68,7 +68,7 @@
           "contacte": true
         }
       ],
-      "imagen": "https://www.wikidex.net/wiki/Archivo:Eevee.png",
+      "imagen": "https://www.wikidex.net/Eevee.png",
       "evolucions": [
         {
           "id": 134,
